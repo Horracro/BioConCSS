@@ -1,0 +1,56 @@
+body{
+
+	font-family: : Georgia,Times New Roman,Times,serif;
+	font-color:#333333;
+	     margin: 0;
+        padding: 0;
+        background-image:url(https://k46.kn3.net/taringa/2/3/8/7/6/D/ariel_slash/DAC.jpg)  ; background-size:cover;
+
+
+}
+header{
+	background-color: #333333;
+	padding: 1px;
+}
+
+h1{
+	font-color:#eee;
+	font-size: 28px;
+
+}
+
+h2{
+
+
+	font-size: 24px;
+}
+
+.container{
+	width: 1024px;
+	margin: auto;
+ 
+	line-height : 25px;
+}
+
+#main-bio{
+
+ float: left;
+ width: 70%;
+
+}
+
+#contact-info{
+	 float: left;
+	 width: 30%;
+}
+#bio-image{
+	 margin: 30px;
+	 float: left;
+}
+a{
+	color:#d21034;
+}
+header{
+	color:white;
+	text-align: center;
+}
